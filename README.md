@@ -8,8 +8,6 @@ This repository contains an analysis aimed at predicting the likelihood of gradu
 ## Business Problem
 Jamboree has launched a feature that allows students to check their probability of gaining admission to top colleges abroad. Understanding the factors that impact graduate admissions is crucial for refining this feature and offering tailored guidance to prospective students.
 
-## Dataset
-**Dataset Link:** [jamboree_admission.csv](jamboree_admission.csv)
 
 ### Column Profiling:
 - **Serial No.**: Unique row ID
@@ -67,14 +65,9 @@ Jamboree has launched a feature that allows students to check their probability 
 ## How to Use This Repository
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/jamboree-admission-prediction.git
+git clone https://github.com/yugmint/Admission_prediction.git
 ```
 
-### Install Required Libraries
-Ensure you have Python and the necessary libraries installed. Use the following command to install required packages:
-```bash
-pip install -r requirements.txt
-```
 
 ### Run the Analysis
 Open the Jupyter notebooks provided in the repository to explore the data and perform the analysis step-by-step.
