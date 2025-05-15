@@ -78,6 +78,3 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-Feel free to fill in the specific metric values once you have them!
